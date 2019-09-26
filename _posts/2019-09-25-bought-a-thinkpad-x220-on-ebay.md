@@ -12,3 +12,5 @@ Ever since then, I've been a long time lurker of [r/thinkpad](https://www.reddit
 The computers provided to me at work have ranged from Dells notebooks and Macbooks.  They've been ok and when I got a Macbook for work, I thought I was in heaven. Up until recently, when I received a Macbook with those crappy keyboards.  Oohh, how I hate that keyboard. 
 
 The crappy keyboard, the lack of ports that I have to carry a dongle everywhere, the new usb-c port.  All of these finally led me to go to ebay and buy a 20 year old Thinkpad X220 for $90.  
+
+TODO: need to insert thinkpad x220 image
