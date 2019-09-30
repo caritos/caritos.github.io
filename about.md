@@ -1,0 +1,3 @@
+---
+permanlink: /about/
+---
