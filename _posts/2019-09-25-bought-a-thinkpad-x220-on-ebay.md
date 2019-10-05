@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bought a Thinkpad X220 on Ebay"
-categories: [computer]
 tags: [thinkpad, x220, ebay]
 ---
 
