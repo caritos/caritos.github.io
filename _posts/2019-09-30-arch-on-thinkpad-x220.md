@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Installed Linux Arch on Thinkpad X220"
-categories: [computer]
 tags: [linux, arch, thinkpad, x220]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Upgrading Ram for Thinkpad X220"
-categories: [computer]
 tags: [thinkpad, x220, ram, upgrade, linux]
 ---
 
