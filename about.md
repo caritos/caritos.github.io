@@ -1,3 +1,0 @@
----
-permanlink: /about/
----
