@@ -4,12 +4,13 @@ title: Eladio Caritos
 ---
 
 <div id="home">
+
 <h1>Me in 10 seconds</h1>
 Husband and #GirlDad.  Been working in the tech industry all my life. From Software Engineering to Systems Engineering in the Telecommunication, E-Commerce, and Transporation industry.  Born in the Philippines.  Childhood in Saudi Arabia.  I now live in the United States.
-
+<br/>
 <h1>Contact me?</h1>
 If you want to get in touch with me, <a href="mailto:eladio@caritos.com">email</a> is best.
-
+<br/>
 <h1>Blog Posts</h1>
 <ul class="posts">
   {% for post in site.posts %}
