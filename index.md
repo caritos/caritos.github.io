@@ -10,3 +10,12 @@ I work with small businesses to improve their workflow through mobile app develo
 Currently living in New York.<br/>
 If you want to get in touch with me, <a href="mailto:eladio@caritos.com">email</a> is best.<br/>
 </div>
+
+<ul class="posts">
+  {% for post in site.posts %}
+  <li>
+    <span>{{ post.date | date_to_string }}</span> 
+    &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
