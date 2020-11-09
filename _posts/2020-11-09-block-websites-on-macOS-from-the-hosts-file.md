@@ -1,6 +1,8 @@
+---
 layout: post
 title: "Block websites on macOS from the hosts file"
 tags: [focus, macOS, productivity]
+---
 
 # Block websites on macOS from the hosts file
 
