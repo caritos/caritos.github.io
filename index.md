@@ -13,7 +13,7 @@ Currently living in New York.
 
 If you want to get in touch with me, <a href="mailto:eladio@caritos.com">email</a> is best.
 
-# Posts
+# Recent Posts
 
 <ul class="posts">
   {% for post in site.posts %}
