@@ -6,6 +6,8 @@ tags: [paperless, productivity, adobe-scan, notion]
 
 # Going Paperless with Adobe Scan and Notion
 
+![IMG_4441](/assets/2020-11-11-going-paperless-with-adobe-scan-and-notion/IMG_4441.png)
+
 ## Notion and Adobe Scan
 
 [Notion](https://www.notion.so/) is a note taking app that I use as my 2nd brain.  Things that I don't want to keep in my brain, I store in Notion so I can retrieve it later. I had used Evernote before but Notion is more effective when note taking.
