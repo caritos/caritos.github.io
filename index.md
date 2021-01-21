@@ -7,7 +7,7 @@ title: Eladio Caritos
 
 <h1>Me in 10 seconds</h1>
 <p>Husband and father to 4 girls.
-Been working in the tech industry all my life. From Software Engineering to Systems Engineering in the Telecommunication, E-Commerce, and Transportation industry.</br>
+Been working in the tech industry all my life. From Software Engineering to Systems Engineering in the Telecommunication, E-Commerce, and Transportation industry.
 Born in the Philippines.  Grew up in Saudi Arabia.  I now live in New York, USA.</p>
 
 <h1>Contact me?</h1>
