@@ -1,0 +1,498 @@
+20121227
+========
+
+* need to finish up the "100" bug.
+* ADDEX has two columns.  I guess the first column is the line number so it is not part of the search.  The hilight works here.
+* 
+
+Dec 27, 2012 11:24:08 AM com.ca.filemaster.runners.RunGetFindExclude <init>
+INFO: server:two
+uuid: 337a3507-6c21-4308-a803-066812d83fb5
+displayMode: C
+hexMode: N
+findLim: 50000
+findString: T'0000204'
+changeString: T''
+cursorOffset: 47
+cursorFieldName: 
+cursorFieldPosition: 1
+cursorRecordNumber: 8
+colsRange: :
+occurence: NEXT
+location: CHAR
+labelPair: :
+excludeOption: 
+padCharacter: null
+
+Dec 27, 2012 11:24:08 AM com.ca.filemaster.runners.RunGetFindExclude run
+<Record eof="N" length="160" number="9">
+<RecordFields>
+<RecordField cursor="2" length="160" position="1">
+<CharData>10000204LARRY ELDMAN   56 JACK ST.       NEW HZZEN   CT06029-1234d  ..* l .b*..*   .n ..%e      .  .. .                                                         </CharData>
+<FindList>
+<Range end="8" start="2"/>
+</FindList>
+</RecordField>
+</RecordFields>
+
+=====
+
+Dec 27, 2012 2:29:49 PM com.ca.filemaster.runners.RunGetFindExclude <init>
+INFO: server:one
+uuid: 633a3058-4c40-4600-9f65-d415b964fe4f
+displayMode: C
+hexMode: N
+findLim: 50000
+findString: T'12'
+changeString: T''
+cursorOffset: 19
+cursorFieldName: 
+cursorFieldPosition: 1
+cursorRecordNumber: 11
+colsRange: :
+occurence: NEXT
+location: CHAR
+labelPair: :
+excludeOption: 
+padCharacter: null
+
+Dec 27, 2012 2:29:49 PM com.ca.filemaster.runners.RunGetFindExclude run
+INFO: xml response:
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<GUIResponse GUIsession="633a3058-4c40-4600-9f65-d415b964fe4f" errorlevel="0" requestID="1">
+<EditResponse>
+<RecordList displayMode="C" hex="N">
+<Record eof="N" length="80" number="1">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  /*REXX*/                                                              00010000</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="2">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  PARSE ARG NU1,NU2,NU3,NU4,NU5,NU6,NU7,NU8                             00020002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="3">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU1=1                                                                 00021002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="4">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU2=2                                                                 00022002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="5">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU3=3                                                                 00023002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="6">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU4=4                                                                 00024002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="7">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU5=5                                                                 00025002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="8">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU6=6                                                                 00026002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="9">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU7=7                                                                 00027002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="10">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU8=8                                                                 00028002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="11">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData> TOTAL= ADDF(NU1,aaa,NU3,NU4,NU5,NU6,NU7,NU8)                           00031002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="12">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData> SAY "THE TOTAL IS :" TOTAL                                             00032001</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="Y" length="80" number="13">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData> EXIT                                                                   00040001</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+</RecordList>
+</EditResponse>
+<ReturnCode>0</ReturnCode>
+<Messages>
+<Message>CAWA445I CHARS T'12' - not found on any  line within columns 1 to 80</Message>
+</Messages>
+</GUIResponse>
+
+Dec 27, 2012 2:29:49 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelectedAndModified
+INFO: next hit record number: 11
+Dec 27, 2012 2:29:49 PM com.ca.filemaster.editor.virtualtableviews.EditorLabelProvider paint
+INFO: green: 13:15
+Dec 27, 2012 2:29:50 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode updateTbl
+INFO: cursor/start/end: 10:1:13
+Dec 27, 2012 2:29:50 PM com.ca.filemaster.runners.RunGetGetRecords <init>
+INFO: start: 1
+count: 13
+displayMode: C
+server: one
+hexMode: N
+uuid: 633a3058-4c40-4600-9f65-d415b964fe4f
+Dec 27, 2012 2:29:57 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelected
+INFO: inside widgetSelected: Button {&Find}
+Dec 27, 2012 2:29:57 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelected
+INFO: findString: 12
+Dec 27, 2012 2:29:57 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelected
+INFO: cursorOffset: 21
+Dec 27, 2012 2:29:57 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelectedAndNotModified
+INFO: modified is false
+Dec 27, 2012 2:29:57 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelectedAndNotModified
+INFO: nextHit = false & hitNumber =11
+Dec 27, 2012 2:29:57 PM com.ca.filemaster.runners.RunGetFindExclude <init>
+INFO: server:one
+uuid: 633a3058-4c40-4600-9f65-d415b964fe4f
+displayMode: C
+hexMode: N
+findLim: 50000
+findString: T'12'
+changeString: T''
+cursorOffset: 21
+cursorFieldName: 
+cursorFieldPosition: 1
+cursorRecordNumber: 11
+colsRange: :
+occurence: NEXT
+location: CHAR
+labelPair: :
+excludeOption: 
+padCharacter: null
+Dec 27, 2012 2:30:06 PM com.ca.filemaster.runners.RunGetFindExclude run
+INFO: xml response:
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<GUIResponse GUIsession="633a3058-4c40-4600-9f65-d415b964fe4f" errorlevel="0" requestID="1">
+<EditResponse>
+<RecordList displayMode="C" hex="N">
+<Record eof="N" length="80" number="1">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  /*REXX*/                                                              00010000</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="2">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  PARSE ARG NU1,NU2,NU3,NU4,NU5,NU6,NU7,NU8                             00020002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="3">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU1=1                                                                 00021002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="4">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU2=2                                                                 00022002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="5">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU3=3                                                                 00023002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="6">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU4=4                                                                 00024002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="7">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU5=5                                                                 00025002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="8">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU6=6                                                                 00026002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="9">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU7=7                                                                 00027002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="10">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU8=8                                                                 00028002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="11">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData> TOTAL= ADDF(NU1,aaa,NU3,NU4,NU5,NU6,NU7,NU8)                           00031002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="12">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData> SAY "THE TOTAL IS :" TOTAL                                             00032001</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="Y" length="80" number="13">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData> EXIT                                                                   00040001</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+</RecordList>
+</EditResponse>
+<ReturnCode>0</ReturnCode>
+<Messages>
+<Message>CAWA445I CHARS T'12' - not found on any  line within columns 1 to 80</Message>
+</Messages>
+</GUIResponse>
+
+Dec 27, 2012 2:30:33 PM com.ca.filemaster.editor.handlers.FindCommandHandler$1 run
+SEVERE: Could not create view: 5f313f29-3c6b-488c-874d-c634a52a3dd1
+Dec 27, 2012 2:30:45 PM com.ca.filemaster.runners.RunGetGetRecords <init>
+INFO: start: 1
+count: 13
+displayMode: C
+server: one
+hexMode: N
+uuid: d4a2eb86-6e08-4421-8d9a-3ebeb8a9af6c
+Dec 27, 2012 2:30:46 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode updateTbl
+INFO: cursor/start/end: 0:1:13
+Dec 27, 2012 2:30:46 PM com.ca.filemaster.runners.RunGetGetRecords <init>
+INFO: start: 1
+count: 13
+displayMode: C
+server: one
+hexMode: N
+uuid: d4a2eb86-6e08-4421-8d9a-3ebeb8a9af6c
+Dec 27, 2012 2:30:46 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode setSelection
+INFO: setting recordNumber to: 1
+Dec 27, 2012 2:30:49 PM com.ca.filemaster.editor.handlers.FindCommandHandler execute
+INFO: 
+secondaryId: b968c765-46f2-4547-8bbc-5abcff2b47b1
+record number: 11
+cursor offset: 21
+Dec 27, 2012 2:30:49 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage <init>
+INFO: uuid: d4a2eb86-6e08-4421-8d9a-3ebeb8a9af6c initial record number: 11 cursorOffset: 21
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelected
+INFO: inside widgetSelected: Button {&Find}
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelected
+INFO: findString: 04
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelected
+INFO: cursorOffset: 23
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelectedAndModified
+INFO: 
+modified is true: 
+recordNumber: 11
+cursorOffset: 23
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.virtualtableviews.EditorView setActiveServerAndUuidOfActiveEditorView
+INFO: server/uuid/record number: one/d4a2eb86-6e08-4421-8d9a-3ebeb8a9af6c/11
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.runners.RunGetFindExclude <init>
+INFO: server:one
+uuid: d4a2eb86-6e08-4421-8d9a-3ebeb8a9af6c
+displayMode: C
+hexMode: N
+findLim: 50000
+findString: T'04'
+changeString: T''
+cursorOffset: 23
+cursorFieldName: 
+cursorFieldPosition: 1
+cursorRecordNumber: 11
+colsRange: :
+occurence: NEXT
+location: CHAR
+labelPair: :
+excludeOption: 
+padCharacter: null
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.runners.RunGetFindExclude run
+INFO: xml response:
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<GUIResponse GUIsession="d4a2eb86-6e08-4421-8d9a-3ebeb8a9af6c" errorlevel="0" requestID="1">
+<EditResponse>
+<RecordList displayMode="C" hex="N">
+<Record eof="N" length="80" number="1">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  /*REXX*/                                                              00010000</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="2">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  PARSE ARG NU1,NU2,NU3,NU4,NU5,NU6,NU7,NU8                             00020002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="3">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU1=1                                                                 00021002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="4">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU2=2                                                                 00022002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="5">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU3=3                                                                 00023002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="6">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU4=4                                                                 00024002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="7">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU5=5                                                                 00025002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="8">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU6=6                                                                 00026002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="9">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU7=7                                                                 00027002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="10">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData>  NU8=8                                                                 00028002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="11">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData> TOTAL= ADDF(NU1,aaa,NU3,NU4,NU5,NU6,NU7,NU8)                           00031002</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="N" length="80" number="12">
+<RecordFields>
+<RecordField length="80" position="1">
+<CharData> SAY "THE TOTAL IS :" TOTAL                                             00032001</CharData>
+</RecordField>
+</RecordFields>
+</Record>
+<Record eof="Y" length="80" number="13">
+<RecordFields>
+<RecordField cursor="75" length="80" position="1">
+<CharData> EXIT                                                                   00040001</CharData>
+<FindList>
+<Range end="76" start="75"/>
+</FindList>
+</RecordField>
+</RecordFields>
+</Record>
+</RecordList>
+</EditResponse>
+<ReturnCode>0</ReturnCode>
+<Messages>
+<Message>CAWA441I Search for CHARS T'04' in columns 1 to 80 was successful.</Message>
+</Messages>
+</GUIResponse>
+
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode setUpFindListRange
+INFO: adding FileMaster FMPRange: 75:76:13
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode setSelection
+INFO: setting recordNumber to: 13
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.pricommands.wizards.FindChangePrimaryCommandWizardPage widgetSelectedAndModified
+INFO: next hit record number: 11
+Dec 27, 2012 2:30:55 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode setSelection
+INFO: setting recordNumber to: 13
+Dec 27, 2012 2:30:56 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode updateTbl
+INFO: cursor/start/end: 12:1:13
+Dec 27, 2012 2:30:56 PM com.ca.filemaster.runners.RunGetGetRecords <init>
+INFO: start: 1
+count: 13
+displayMode: C
+server: one
+hexMode: N
+uuid: d4a2eb86-6e08-4421-8d9a-3ebeb8a9af6c
+Dec 27, 2012 2:30:56 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode setUpFindListRange
+INFO: adding FileMaster FMPRange: 75:76:13
+Dec 27, 2012 2:30:56 PM com.ca.filemaster.editor.virtualtableviews.CharFormatMode setSelection
+INFO: setting recordNumber to: 13
+Dec 27, 2012 2:30:56 PM com.ca.filemaster.editor.virtualtableviews.EditorLabelProvider paint
+INFO: green: 74:75
