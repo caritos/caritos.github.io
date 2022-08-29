@@ -53,7 +53,24 @@ url: https://www.microconf.com
 * plug your funnle and improve conversion rates, then send more traffic
 ### Traffic Quality
 * high quality traffice = how close each visitor is to your ideal customer and how much of a relationship you have with that visitor
-* 
+* google analytics with goals can help analyze traffic
+### Removing the Junk
+* need to look at all visitors taht stayed longer than 5 seconds
+### General Rules
+* mailing list (assuming you have a relationship)
+* your blog (assuming you have a relantionship)
+* a referral link from a targeted websie with a positive write-up about your product
+* direct traffic (this typically means somewone heard about your product on a podcase, read about it in print or in an online article with no link, or the person is a repear vistoer that rembers your url)
+* an organic search on your product name
+* a referral link with no write-up or from a non-targeted website
+* all other organic searchs
+* google adwords
+* banner and other advertising
+### The Moral
+* blog to build your RSS and email subscriber base for the highest quality traffic
+* participate in blog and pod case interviews for the #3 and #4 sports.
+* you should always peform on-page SEO 
+* focus your time on high quality traffic and your high quality traffic will focus its time on you.
 
 ## Three Words that Increased My E-commerce Sales 1000% Overnight
 ## Why "Luck is a Terrible Marketing Plan for Your Startup
