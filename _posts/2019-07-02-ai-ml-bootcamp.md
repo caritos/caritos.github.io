@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20190702-ai-ml-bootcamp 
+title: ai-ml-bootcamp 
 ---
 * aws.training/machinelearning
 * chick-fil-a using machine lerning to identify waffle fries freshness
