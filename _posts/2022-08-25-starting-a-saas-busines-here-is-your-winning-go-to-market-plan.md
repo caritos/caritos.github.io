@@ -5,8 +5,6 @@ tags: [saas, microconf]
 url: https://www.youtube.com/watch?v=wLoHNv9qMKw&list=PLwcQbu9cKWckF6EYygu4r_NMFm9F9LEDL&index=1&ab_channel=MicroConf
 ---
 {{ page.title }}
-{{ page.url }}
-{{ page.tags }}
 ================
 * go to market
     - target customer

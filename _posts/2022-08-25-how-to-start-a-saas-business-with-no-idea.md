@@ -5,8 +5,6 @@ tags: [saas, microconf, 2015]
 url: https://www.youtube.com/watch?v=-Marj9F-xvw&ab_channel=MicroConf
 ---
 {{ page.title }}
-{{ page.url }}
-{{ page.tags }}
 ================
 * Pawel Brzeminski
 * how to find profitable business ideas
