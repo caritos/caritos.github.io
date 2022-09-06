@@ -4,6 +4,10 @@ title: What to Do When You Have No Ideas
 tags: [creativity, microconf, 2019]
 url: https://www.youtube.com/watch?v=1hU0weGo_6U&ab_channel=MicroConf
 ---
+{{ page.title }}
+{{ page.url }}
+{{ page.tags }}
+================
 * this is about generating ideas for a podcast, not about not knowing what saas business to run
 * william gant
     - complete developer podcaster

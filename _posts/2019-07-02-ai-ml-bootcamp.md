@@ -2,6 +2,8 @@
 layout: post
 title: ai-ml-bootcamp 
 ---
+{{ page.title}}
+===============
 * aws.training/machinelearning
 * chick-fil-a using machine lerning to identify waffle fries freshness
   * computer vision problem
