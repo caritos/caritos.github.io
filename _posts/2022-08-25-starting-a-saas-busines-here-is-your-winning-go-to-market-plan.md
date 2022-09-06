@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Starting a SaaS Business? Here's your Winning Go-To-Market-Plan"
+title: Starting a SaaS Business? Here's your Winning Go-To-Market-Plan
 tags: [saas, microconf]
 url: https://www.youtube.com/watch?v=wLoHNv9qMKw&list=PLwcQbu9cKWckF6EYygu4r_NMFm9F9LEDL&index=1&ab_channel=MicroConf
 ---
-# Starting a SaaS Business? here's Your Winning Go-to-Market Plan
 * go to market
     - target customer
         * start by reseaching the competitive landscape

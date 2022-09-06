@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Start a SaaS Business With No Idea"
+title: How to Start a SaaS Business With No Idea
 tags: [saas, microconf, 2015]
 url: https://www.youtube.com/watch?v=-Marj9F-xvw&ab_channel=MicroConf
 ---

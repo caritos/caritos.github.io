@@ -7,3 +7,10 @@ title: Eladio Caritos
 <p>I'm a programmer currently living in Long Island, NY</p>
 <p>If you want to get in touch with me, <a href="mailto:eladio@caritos.com">email</a> is best.</p>
 </div>
+
+<h1>Notes</h1>
+<ul class="posts">
+    {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
