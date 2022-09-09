@@ -10,3 +10,4 @@ url: https://pcpartpicker.com/user/sotirac/saved/3PQ2xr
 * [PC Part Picker List](https://pcpartpicker.com/list/q4FcyK)
     - this will help me figure out compatibility issue
 * looking to buy from merchants newegg.com and amazon.com
+* will wait for the rtx 4000 series to be released, hopefully all gpu prices will drop
