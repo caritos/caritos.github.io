@@ -14,3 +14,8 @@ title: Eladio Caritos
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+<h1>Projects</h1>
+<ul class="posts">
+<li><a href="https://caritos.github.io/2022/09/08/my-backyard-garden.html">Food Forest</a></li>
+</ul>
