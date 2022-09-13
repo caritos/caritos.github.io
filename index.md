@@ -17,5 +17,5 @@ title: Eladio Caritos
 
 <h1>Projects</h1>
 <ul class="posts">
-<li><a href="https://caritos.github.io/2022/09/08/my-backyard-garden.html">Food Forest</a></li>
+<li><a href="https://caritos.github.io/2022/09/08/food-forest.html">Food Forest</a></li>
 </ul>
