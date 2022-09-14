@@ -6,10 +6,50 @@ tags: [garden, diy, 2022]
 {{ page.title }}
 ================
 * 20220908 - just got my second load of woodchip.  I'm going to cover up the border of my property with woodchips.
+![1](/assets/2022-09-08-food-forest/IMG_0620.HEIC)
+![2](/assets/2022-09-08-food-forest/IMG_0619.MOV)
+![5](/assets/2022-09-08-food-forest/IMG_0616.MOV)
+
+* 20220709 - just finished setting first load of wood chips on the side of the backyard.
+![1](/assets/2022-09-08-food-forest/IMG_9761.HEIC)
+![2](/assets/2022-09-08-food-forest/IMG_9762.HEIC)
+![3](/assets/2022-09-08-food-forest/IMG_9763.HEIC)
+![4](/assets/2022-09-08-food-forest/IMG_9764.HEIC)
+![5](/assets/2022-09-08-food-forest/IMG_9765.HEIC)
+![6](/assets/2022-09-08-food-forest/IMG_9766.HEIC)
+![8](/assets/2022-09-08-food-forest/IMG_9768.HEIC)
+![9](/assets/2022-09-08-food-forest/IMG_9769.HEIC)
+![10](/assets/2022-09-08-food-forest/IMG_9770.HEIC)
+![11](/assets/2022-09-08-food-forest/IMG_9770.HEIC)
+![12](/assets/2022-09-08-food-forest/IMG_9771.HEIC)
+![13](/assets/2022-09-08-food-forest/IMG_9772.HEIC)
+![14](/assets/2022-09-08-food-forest/IMG_9773.HEIC)
+![15](/assets/2022-09-08-food-forest/IMG_9774.HEIC)
+![16](/assets/2022-09-08-food-forest/IMG_9775.HEIC)
+![17](/assets/2022-09-08-food-forest/IMG_9776.HEIC)
+![18](/assets/2022-09-08-food-forest/IMG_9777.HEIC)
 
 * Plant Zone Finder
     - Stony Brook, NY 11790 
     - Zone 7a
+
+* Epic September Backyard Garden Harvest
+    - https://www.youtube.com/watch?v=oVfjHPCcGmA&ab_channel=TheGardeningChannelWithJamesPrigioni
+    - niagara grapes (green grapes)
+    - katolba grapes (red grapes)
+    - reliance grapes
+
+    - bought at home depot 10 years ago
+    - grapes pruned so they can just be picked at the shade top
+    - jujoro pairs (butterscotch pairs) 
+        * asian pair
+    - persimmon tree
+        * ripe after the frost
+    - lots of peppers ready to harvest
+    - suyulong cucumber 
+        * used a trellis
+    - honeycrisp apples
+    - alibaba watermelon
 
 * Peaches - Everything you need to know
     - https://www.youtube.com/watch?v=qo5VuykuoQE&ab_channel=TheGardeningChannelWithJamesPrigioni
