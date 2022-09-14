@@ -7,8 +7,6 @@ tags: [garden, diy, 2022]
 ================
 * 20220908 - just got my second load of woodchip.  I'm going to cover up the border of my property with woodchips.
 ![1](/assets/2022-09-08-food-forest/IMG_0620.HEIC)
-![2](/assets/2022-09-08-food-forest/IMG_0619.MOV)
-![5](/assets/2022-09-08-food-forest/IMG_0616.MOV)
 
 * 20220709 - just finished setting first load of wood chips on the side of the backyard.
 ![1](/assets/2022-09-08-food-forest/IMG_9761.HEIC)
