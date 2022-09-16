@@ -31,6 +31,11 @@ tags: [garden, diy, 2022]
     - Stony Brook, NY 11790 
     - Zone 7a
 
+* I wish someone told me This when I first started my Food Forest Garden
+    - https://www.youtube.com/watch?v=C4h6Ii-oz_8&ab_channel=TheGardeningChannelWithJamesPrigioni
+    - don't work on impulse
+    - be observant
+    
 * Epic September Backyard Garden Harvest
     - https://www.youtube.com/watch?v=oVfjHPCcGmA&ab_channel=TheGardeningChannelWithJamesPrigioni
     - niagara grapes (green grapes)
