@@ -30,6 +30,12 @@ tags: [garden, diy, 2022]
 * Plant Zone Finder
     - Stony Brook, NY 11790 
     - Zone 7a
+    - Chill hours for Long Island
+        * https://cals.cornell.edu/cornell-cooperative-extension
+        * CCE Suffolk, 423 Griffing Avenue, Riverhead, NY 10191
+        * 631-727-7850
+        * suffolk@cornell.edu
+        
 
 * I wish someone told me This when I first started my Food Forest Garden
     - https://www.youtube.com/watch?v=C4h6Ii-oz_8&ab_channel=TheGardeningChannelWithJamesPrigioni
