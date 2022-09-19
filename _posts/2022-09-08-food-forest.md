@@ -35,6 +35,32 @@ tags: [garden, diy, 2022]
     - https://www.youtube.com/watch?v=C4h6Ii-oz_8&ab_channel=TheGardeningChannelWithJamesPrigioni
     - don't work on impulse
     - be observant
+
+* 7 Crucial tips for Growing Apples in the Garden
+    - https://www.youtube.com/watch?v=sRneLAOR3JE&ab_channel=TheGardeningChannelWithJamesPrigioni
+    - plant dwarf trees
+        * easier to manage
+        * easier to cover
+    - grow disease resistant varieties
+        * liberty apple
+    - buy bare root trees
+        * spread the roots out
+    - prune to central leader and encourage proper branch angles
+        * 50 - 75 degrees
+    - use organic sprays
+        * BT (monterey BT) for bug moth larvae
+        * suround kaolin clay
+        * sulfur plan fungicide 
+    - thin the fruit
+        * within 40 days after petal fall
+        * one apple per cluster
+    - pick up fallen fruit
+    - need a pollinator
+        * apple trees not self fertile
+    - 700 - 1000 chill hour
+        * chill hours are below 45f (7.2c) and above 32F (0c)
+    - do not bury the graft union
+    - stake the tree when it is young
     
 * Epic September Backyard Garden Harvest
     - https://www.youtube.com/watch?v=oVfjHPCcGmA&ab_channel=TheGardeningChannelWithJamesPrigioni
