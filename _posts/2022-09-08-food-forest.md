@@ -35,7 +35,6 @@ tags: [garden, diy, 2022]
         * CCE Suffolk, 423 Griffing Avenue, Riverhead, NY 10191
         * 631-727-7850
         * suffolk@cornell.edu
-        
 
 * I wish someone told me This when I first started my Food Forest Garden
     - https://www.youtube.com/watch?v=C4h6Ii-oz_8&ab_channel=TheGardeningChannelWithJamesPrigioni
