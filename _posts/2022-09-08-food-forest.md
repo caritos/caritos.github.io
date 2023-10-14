@@ -6,7 +6,7 @@ tags: [garden, diy, 2022]
 
 # {{ page.title }}
 
-## [Fencing Around Fruit Trees](./2023-10-14-fencing-around-fruit-trees.md#sub-section)
+## [Fencing Around Fruit Trees](./../../../2023-10-14-fencing-around-fruit-trees.md#sub-section)
 
 - 20220908 - just got my second load of woodchip. I'm going to cover up the border of my property with woodchips.
   ![1](/assets/2022-09-08-food-forest/IMG_0620.HEIC)
@@ -227,4 +227,3 @@ tags: [garden, diy, 2022]
   - Semi-Dwarf Espalier Rootstock: MM106
   - compatible with William's Pride
   - compatible with Liberty as far as pollination is concerned
-
