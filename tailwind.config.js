@@ -7,7 +7,11 @@ module.exports = {
     '*.markdown'
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        body: ['Roboto']
+      }
+    },
   },
   plugins: [],
 }
