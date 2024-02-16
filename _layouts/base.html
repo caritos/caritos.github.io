@@ -1,20 +1,15 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="en">
+{%- include head.html -%}
+<body class="text-gray-600 font-body">
 
-  {%- include head.html -%}
-
-  <body class="p-4 text-gray-500 font-body">
-
+  <div class="grid md:grid-cols-3">
     {%- include header.html -%}
-
-    <main class="page-content max-w-screen-lg mx-auto h-full" aria-label="Content">
-      <div class="wrapper mt-5">
+    <main class="px-16 py-6 md:col-span-2 bg-gray-100">
         {{ content }}
-      </div>
     </main>
-
     {%- include footer.html -%}
+  </div>
 
-  </body> 
-
+  <script src="index.js"></script>
+</body>
 </html>
