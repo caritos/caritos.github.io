@@ -1,10 +1,8 @@
-const burger = document.querySelector('#burger');
-const menu = document.querySelector('#menu');
+document.addEventListener('DOMContentLoaded', function () {
+  const button = document.getElementById('navbar-toggle');
+  const menu = document.getElementById('navbar-default');
 
-burger.addEventListener('click', (e) => {
-  if (menu.classList.contains('hidden')) {
-    menu.classList.remove('hidden');
-  } else {
-    menu.classList.add('hidden');
-  }
+  button.addEventListener('click', function () {
+    menu.classList.toggle('hidden');
+  });
 });
