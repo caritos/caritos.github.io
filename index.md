@@ -1,4 +1,4 @@
 ---
 layout: base 
 ---
-I'm a programmer currently living in Long Island, NY.  I'm always looking for interesting projects, here is my <a href="./assets/eladio-caritos-resume.pdf" class="text-blue-400 hover:text-blue-600">resume</a> if you want to work with me.
+Eladio is a freelance full-stack developer based in Long Island with a passion for building digital services. He has a knack for all things launching products, from planning and designing all the way to solving real-life problems with code.
