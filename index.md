@@ -1,5 +1,6 @@
 ---
 layout: base 
+title: Eladio Caritos
 ---
 # 👋 Hi, I'm Eladio Caritos
 
@@ -19,3 +20,9 @@ I'm developing a [student information system](https://en.wikipedia.org/wiki/Stud
 
 If you want to get in touch wih me, emailing me at eladio@caritos.com is best.
 
+<h2>Blog Posts</h2>
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
