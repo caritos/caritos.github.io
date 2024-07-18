@@ -3,6 +3,7 @@ layout: post
 title: My Essential Tools for a Portable Workstation 
 city: ponte-vedra-beach
 state: florida
+tags: [battlestation, macbook, intellij, github, obsidian, fantastical, raycast, pomodoro, ergonomics]
 ---
 
 <img src="https://i.imgur.com/Wa9SNsI.jpeg" alt="battlestation" height="500"/>
