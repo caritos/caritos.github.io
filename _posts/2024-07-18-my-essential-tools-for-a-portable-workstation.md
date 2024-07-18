@@ -5,7 +5,7 @@ city: ponte-vedra-beach
 state: florida
 ---
 
-![battlestation](https://i.imgur.com/Wa9SNsI.jpeg)
+<img src="https://i.imgur.com/Wa9SNsI.jpeg" alt="battlestation" height="500"/>
 
 # Hardware
 
