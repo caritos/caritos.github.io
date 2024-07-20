@@ -12,3 +12,8 @@ install_if -> { Gem.win_platform? } do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
+
+group :jekyll_plugins do
+    gem 'jekyll-postcss'
+end
+

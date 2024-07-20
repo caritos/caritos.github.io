@@ -28,6 +28,7 @@ url: "http://eladio.caritos.com" # the base hostname & protocol for your site, e
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-postcss
 
 # Exclude from processing.
 # The following items will not be processed, by default.

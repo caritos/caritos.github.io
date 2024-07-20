@@ -1,18 +1,15 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    '_includes/**/*.html',
-    '_layouts/**/*.html',
-    '*.md',
-    '*.markdown'
+    './_includes/**/*.html',
+    './_layouts/**/*.html',
+    './_posts/*.md',
+    './*.html',
   ],
   theme: {
-    extend: {
-      fontFamily: {
-        body: ['Roboto']
-      }
-    },
+    extend: {},
   },
-  plugins: [],
+  variants: {},
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 }
-
