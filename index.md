@@ -1,6 +1,6 @@
 ---
 layout: base 
-title: Eladio Caritos
+title: Home 
 ---
 # 👋 Hi, I'm Eladio Caritos
 
