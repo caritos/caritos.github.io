@@ -18,7 +18,7 @@ I'm developing a [student information system](https://en.wikipedia.org/wiki/Stud
 
 # 📫 How to reach me:
 
-If you want to get in touch wih me, emailing me at eladio@caritos.com is best.
+If you want to get in touch wih me, emailing me at eladio@caritos.com is best or chat with me on <a href="https://t.me/eladio_caritos">Telegram</a>
 
 <h2>Blog Posts</h2>
 <ul class="posts">
